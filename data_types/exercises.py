@@ -32,5 +32,3 @@ pets = {
     'Neptune': 'fish',
     'Darwin': 'lizard',
 }
-
-print(pets, {names})
